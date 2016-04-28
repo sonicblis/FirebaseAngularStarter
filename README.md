@@ -11,4 +11,6 @@ Cloning:
 - firebase init
 - gulp publish
 - [set up google app](https://console.developers.google.com/project)
+  - authorized origins: https://auth.firebase.com
+  - authorized redirect: https://auth.firebase.com/v2/**[newAppName]**/auth/google/callback
 - enable google auth
