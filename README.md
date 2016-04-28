@@ -10,3 +10,5 @@ Cloning:
 - del firebase.json
 - firebase init
 - gulp publish
+- [set up google app](https://console.developers.google.com/project)
+- enable google auth
